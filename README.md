@@ -24,7 +24,6 @@ Dependencies: NumPy 2.3.5, SciPy 1.17.0, Matplotlib 3.10.8. The tested platform 
 | `revision/scripts/` | Model, four forecast methods, learning/feedback experiments, analysis and current figures |
 | `original_network/reproducibility/` | Original network suites and analyses |
 | `theory/` | First-passage, renewal and cohort calculations |
-| `language/` | Controlled-text scoring and B1/B2 mapping experiments, with frozen simulation plans |
 | `docs/` | Reproduction instructions, limitations, experiment inventory and figure/data map |
 
 ## Reproduce the paper
